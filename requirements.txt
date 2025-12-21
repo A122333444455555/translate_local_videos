@@ -1,0 +1,5 @@
+python
+openai-whisper
+ffmpeg-python
+deep-translator
+torch
